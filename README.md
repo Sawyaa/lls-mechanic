@@ -1,4 +1,4 @@
-# lls-mechanic fonctionne pour ESX
+# lls-mechanic fonctionne sous ESX
 
 Je release ce script que j'ai trouver dans une base et qui était broken, je l'ai fix et comme je ne l'ai vu nulle part d'autre je le release.
 
