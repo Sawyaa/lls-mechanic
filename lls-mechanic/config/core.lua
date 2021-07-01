@@ -46,17 +46,4 @@ Config.Positions = {
         },
         actionDistance = 7.0
     },
-
-    { -- crips
-        pos = {x = 0, y = 0, z = 0},
-        whitelistJobName = 'police',
-        blip = {
-            enable = false,
-            type = 72,
-            color = 0,
-            title = 'Ciptos',
-            scale = 0.5
-        },
-        actionDistance = 7.0
-    },
 }
