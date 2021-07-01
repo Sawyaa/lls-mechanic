@@ -8,6 +8,13 @@ Et une ui dans le style de Forza Horizon 4.
 J'ai adapter le script pour mon serveur donc vous devrez surement l'adapter a vos script, je n'apporterai aucun support pour ce script.
 
 
+Pour changez le métier qui aura accés au panel de custom rdv ici : config/core.lua     - Ligne 39 et remplacez par le label de votre métier mécano
+
+
+
+
+
+
 
 
 
